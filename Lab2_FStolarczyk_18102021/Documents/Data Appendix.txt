@@ -1,0 +1,3 @@
+positive_answers - extracted 'Yes' answers from earthquake.csv file
+negative_answers - extracted 'No' answers from earthquake.csv file
+total_answers    - ratio of answers 'yes'/('yes'+'No) 
